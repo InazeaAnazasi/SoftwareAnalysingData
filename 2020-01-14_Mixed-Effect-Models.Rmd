@@ -3,9 +3,7 @@ title: "Mixed Effects Models and other notes from the session"
 author: "Lukas Schmid"
 date: "9 1 2020"
 output:
-  html_document:
-    toc_float: TRUE
-    code_folding: hide
+  github_document
 ---
 
 # exams
@@ -40,6 +38,9 @@ assigned to (groups of three to four people)
 ### evaluation criteria that Henrik
 - steps of analysis that do not contribute to (one of the) question(s) that 
 were posed will be counted towards a bad evaluation
+- results should answer the question (or draw the conclusion that the question
+can not be answered by the data)
+- graphics have to adhere to common standards (labels, legends, etc.)
 
 # writing code coherently
 
