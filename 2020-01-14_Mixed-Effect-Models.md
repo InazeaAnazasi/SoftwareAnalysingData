@@ -15,8 +15,8 @@ Lukas Schmid
 
   - we have to send in five to ten pages (PDF)
   - Henrik will not read the any more pages
-  - we will be sent the code at 10:00 on Saturday, 1st of March
-  - we have to send the code back until 10:00 on Monday, 3rd of March
+  - we will be sent the code at 10:00 on Saturday, 1st of February
+  - we have to send the code back until 10:00 on Monday, 3rd of February
   - there will be an additional 5% on the grade for writing a
     [Haiku](https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5) about the
     data
